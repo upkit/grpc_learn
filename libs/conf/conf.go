@@ -8,7 +8,7 @@ import (
 	"github.com/upkit/grpc_learn/libs/cache/mredis"
 	"github.com/upkit/grpc_learn/libs/db/msql"
 	"github.com/upkit/grpc_learn/libs/log"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 type Config struct {

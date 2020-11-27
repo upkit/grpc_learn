@@ -22,5 +22,5 @@ require (
 	golang.org/x/sys v0.0.0-20201022201747-fb209a7c41cd // indirect
 	google.golang.org/grpc v1.33.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	gopkg.in/yaml.v2 v2.2.3
+	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
